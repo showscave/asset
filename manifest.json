@@ -1,0 +1,40 @@
+{
+  "name": "ShowsCave",
+  "short_name": "ShowsCave",
+  "icons": [
+    {
+      "src": "https://cdn.statically.io/gh/showscave/asset/main/sc-circle-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.statically.io/gh/showscave/asset/main/sc-circle-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "src": "https://cdn.statically.io/gh/showscave/asset/main/sc-mask-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "src": "https://cdn.statically.io/gh/showscave/asset/main/sc-mask-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#4332c2",
+  "background_color": "#4332c2",
+  "start_url": "https://www.showscave.com",
+  "id": "showscave-webapp",
+  "scope": "/",
+  "display": "standalone",
+  "description": "Explore Songs Lyrics at ShowsCave - your ultimate destination for Lyrics of Hindi, English, Punjabi & more songs.",
+  "lang": "en",
+  "categories": [
+    "entertainment",
+    "music"
+  ]
+}
